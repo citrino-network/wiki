@@ -81,7 +81,7 @@ de una manera más seria ^ 5, no hay consenso ni declaraciones institucionales d
 peligro para los usuarios de Ethereum ni se menciona el efecto de PoS en la distribución igualitaria
 de nuevas monedas ETH.
 
-<img align = "right" width = "50%" src = "https://github.com/webchain-network/wiki/blob/master/images/Webchain_white_paper-1.png" alt = "Red de cadena web">
+<img align = "right" width = "50%" src = "https://raw.githubusercontent.com/citrino-network/wiki/main/assets/global/white_paper-1.png" alt = "Red de cadena web">
 Frente a la enorme diferencia en la dificultad de los bloques que
 las máquinas ASIC representan, y el hecho de que este
 El incremento está diseñado para que suceda ^ 6 con el fin de enfrentar el
@@ -137,7 +137,7 @@ dificultad de la cadena de bloques. Esto generalmente se traduce en máquinas de
 componentes de memoria) y una conexión estable mientras funcionan. Este enfoque es limitativo tanto en el
 los activos económicos habituales de los usuarios y la flexibilidad de las conexiones a las que tienen acceso.
 
-<img align = "left" width = "30%" src = "https://github.com/webchain-network/wiki/blob/master/images/Webchain_white_paper-2.png" alt = "Red de Webchain"> < br>
+<img align = "left" width = "30%" src = "https://raw.githubusercontent.com/citrino-network/wiki/main/assets/global/white_paper-2.png" alt = "Red Citrino"> < br>
 CITRINO no requiere un hardware particularmente bueno.
 Siempre que el dispositivo tenga procesador, contará con un
 porcentaje de potencia de CPU no utilizada que se ejecuta de forma asincrónica. 
@@ -169,7 +169,7 @@ Los bloques se agrupan en eras. Cada era contiene 100 000 bloques, por lo que la
 Era 2, 100000-199999 y así sucesivamente. La recompensa base se reduce cada era en 1/250, como se describe en el
 siguiente ecuación:
 <p align = "centro">
-<img width = "40%" src = "https://github.com/webchain-network/wiki/blob/master/images/Webchain_white_paper-3.png">
+<img width = "40%" src = "https://raw.githubusercontent.com/citrino-network/wiki/main/assets/global/white_paper-3.png">
 </p>
 
 Donde x representa el número de eras e y la recompensa base. Mejor explicado, la recompensa base en
@@ -177,7 +177,7 @@ Era 0 es 50 CTN, en Era 1 - 49,8 CTN, Era 2 - 49.6008 CTN, etc. (consulte la fig
 ''
 ''
 <p align = "centro">
-<img width = "80%" src = "https://github.com/webchain-network/wiki/blob/master/images/Webchain_white_paper-4.png">
+<img width = "80%" src = "https://raw.githubusercontent.com/citrino-network/wiki/main/assets/global/white_paper-4.png">
 </p>
 
 # CITRINO: hoja de ruta
