@@ -137,7 +137,7 @@ dificultad de la cadena de bloques. Esto generalmente se traduce en máquinas de
 componentes de memoria) y una conexión estable mientras funcionan. Este enfoque es limitativo tanto en el
 los activos económicos habituales de los usuarios y la flexibilidad de las conexiones a las que tienen acceso.
 
-<img align = "left" width = "30%" src = "https://raw.githubusercontent.com/citrino-network/wiki/main/assets/global/white_paper-2.png" alt = "Red Citrino"> < br>
+<img align = "left" width = "30%" src = "https://raw.githubusercontent.com/citrino-network/wiki/main/assets/global/white_paper-2.png" alt = "Red Citrino"> <br />
 CITRINO no requiere un hardware particularmente bueno.
 Siempre que el dispositivo tenga procesador, contará con un
 porcentaje de potencia de CPU no utilizada que se ejecuta de forma asincrónica. 
