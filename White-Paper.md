@@ -1,265 +1,198 @@
-# MintMe.com Coin: 
-## A Blockchain for DApps, Secured via Websites
-# Abstract:
-In Internet of Things era, why limit mining only to PCs with installed specialized software? Every device
-with spare resources (including PCs, smartphones and IoT devices), as long as the owner agrees, should
-be able to participate in securing the network. MintMe.com Coin is a transparent web-mineable blockchain
-platform made to support Decentralized Applications (DApps), where websites can serve as a hardware-
-independent alternative to secure ERC20 & ERC223 smart contracts. We are presenting a working, fully
-functional, smart contracts enabled blockchain platform. On top of that, we feel committed to building
-tools that help in attracting new projects into the cryptocurrency ecosystem. MintMe.com Coin is a platform for
-projects that base their business model on mining via websites, for those that want to remain ASIC-
-resistant  (and support egalitarian coin distribution), or anyone that wants to spread new revolutionary
-ways of website monetization. MintMe.com Coin, and projects built upon it, will be the first real alternatives to
-Google Adsense monopoly and will introduce a completely new way for webmasters to generate
-revenues.
+# Citrino (CTN):
+## Una cadena de bloques para DApps diferente
 
-# Blockchain Backgrounds:
+# Abstracto:
+En la era de la revolución digital, ¿por qué limitar la minería solo a las PC y hardware especializado? Cada dispositivo
+con recursos de repuesto (incluidos PC, teléfonos inteligentes o dispositivos de IoT), siempre que el propietario esté de acuerdo, debe
+poder participar en la seguridad de la red. La red CITRINO es una cadena de bloques transparente que se puede minar en la web
+plataforma creada para admitir aplicaciones descentralizadas (DApps), donde los sitios web pueden servir como hardware
+alternativa independiente para asegurar contratos inteligentes ERC20, BEP20, ERC223 y BEP40.
 
-Nine years ago, a technological and economic revolution began, triggered by a simple, yet
-transcendent idea: “an electronic payment system based on cryptographic proof instead of trust,
-allowing any two willing parties to transact directly with each other without the need of a trusted third
-party.” (Nakamoto, 2009).
+Además de eso, nos sentimos comprometidos a construir hardware de energia renovables para que los mineros obtengan un 100% de sus ganancias y 
+herramientas que ayudan a atraer nuevos proyectos al ecosistema de las criptomonedas. La red CITRINO es una plataforma para
+proyectos que basan su modelo de negocio en la minería a través de CPU, para aquellos que quieren seguir siendo ASIC-
+resistentes (y apoyan la distribución igualitaria de monedas).
 
-Bitcoin introduced a revolutionary way to understand economics: transactions no longer based on third-
-party interventions or central overseers. Banks and any other financial institutions replaced by an
-ongoing ledger chain created from a hash-based proof-of-work (PoW), registering any transaction on
-an encrypted p2p network. Not too long after the success of this idea, Ethereum emerged; a new
-blockchain solution, built to extend Bitcoin reaches so that a distributed network of miners could
-process complex sets of smart contracts. When Bitcoin’s sha- 256 got dedicated ASIC, mining became
-unprofitable for many users due to the rapid increase of block difficulty.
+# Fondos de Blockchain:
+Hace más de diez años, comenzó una revolución tecnológica y económica, desencadenada por un simple, pero
+idea trascendente: “un sistema de pago electrónico basado en pruebas criptográficas en lugar de confianza,
+Permitir que dos partes interesadas realicen transacciones directamente entre sí sin la necesidad de un tercero de confianza.
+fiesta." (Nakamoto, 2009).
 
-None of the changes conceived as part of Ethereum solved or are going to solve this problem - they are
-currently vulnerable to ASIC mining (or even attacks) and later, they plan to move to Proof of Stake,
-which won ́t ensure that Ethereum network remains egalitarian. In Proof of Stake, there’s no equal
-distribution since owners of many coins get rewarded the most, while those with few coins - the least. It
-starts to resemble the old banking model which the current world is built on.
+Bitcoin introdujo una forma revolucionaria de entender la economía: las transacciones ya no se basan en terceros
+intervenciones del partido o supervisores centrales. Bancos y cualquier otra institución financiera reemplazada por un
+cadena de contabilidad en curso creada a partir de una prueba de trabajo (PoW) basada en hash, que registra cualquier transacción en
+una red p2p encriptada. No mucho después del éxito de esta idea, surgió Ethereum; un nuevo
+solución blockchain, construida para extender los alcances de Bitcoin para que una red distribuida de mineros pudiera
+procesar conjuntos complejos de contratos inteligentes. Cuando el sha-256 de Bitcoin obtuvo un ASIC dedicado, la minería se convirtió en
+no rentable para muchos usuarios debido al rápido aumento de la dificultad del bloque.
 
-Privacy-oriented blockchains can be an attractive environment for lawbreakers, that’s why holding
-transparent and public transactions is convenient for website-minable currencies - even when most
-privacy coin users are legit. MintMe Coin team thinks that bitcoin's pseudo-anonymity was the solution
-from the beginning. Unnamed wallets help to prevent data theft and snooping, as it occurred in 2018
-with Facebook-Cambridge Analytica scandal. At the same time, transactions shouldn’t be obfuscated
-because transparency is very important in today’s world.
+Ninguno de los cambios concebidos como parte de Ethereum resolvió o va a resolver este problema: son
+actualmente vulnerable a la minería ASIC (o incluso a los ataques) y luego, planean pasar a la Prueba de participación,
+lo que no asegurará que la red Ethereum siga siendo igualitaria. En Prueba de participación, no hay igual
+distribución, ya que los propietarios de muchas monedas son los más recompensados, mientras que los que tienen pocas monedas son los que menos. Eso
+comienza a parecerse al viejo modelo bancario sobre el que se construye el mundo actual.
+
+Las cadenas de bloques orientadas a la privacidad pueden ser un entorno atractivo para los infractores de la ley, por eso mantener
+Las transacciones públicas y transparentes son convenientes para las monedas que se pueden extraer del sitio web, incluso cuando la mayoría
+Los usuarios de monedas de privacidad son legítimos. El equipo de CITRINO cree que el pseudoanonimato de bitcoin era la solución
+desde el principio. Las carteras sin nombre ayudan a prevenir el robo de datos y el espionaje, como ocurrió en 2018
+con el escándalo Facebook-Cambridge Analytica. Al mismo tiempo, las transacciones no deben ofuscarse
+porque la transparencia es muy importante en el mundo de hoy.
 
 
-How would you like it if politicians received Monero-based donations from unknown donors? We
-support privacy, but not at the cost of the transaction transparency. Both things are important and both
-can be achieved. Not to mention, that there is a real risk in banning privacy coins by regulators —there
-are exchanges that already removed Monero and other privacy-based coins because of this^1. All this
-could influence privacy coins price in future.
+¿Qué le parecería que los políticos recibieran donaciones basadas en Monero de donantes desconocidos? Nosotros
+apoyar la privacidad, pero no a costa de la transparencia de la transacción. Ambas cosas son importantes y ambas
+puede lograrse. Sin mencionar que existe un riesgo real al prohibir las monedas de privacidad por parte de los reguladores,
+son intercambios que ya eliminaron Monero y otras monedas basadas en la privacidad debido a esto ^ 1. Todo esto
+podría influir en el precio de las monedas de privacidad en el futuro.
 
-After the first blockchain projects were created, criticism and production of new ones proved that they
-were just part of a new technological revolution. A massive social recognition, mass-media coverage
-and a rollercoaster of opinions, caused cryptocurrencies and their creators (under real names or
-pseudonyms) to become popular, along with the idea of handling transactions through decentralized,
-trustless networks. Nowadays, there are many alternative blockchain networks and they are more than
-ledgers for financial transactions.
+Después de que se crearon los primeros proyectos de blockchain, la crítica y la producción de nuevos demostraron que
+eran solo parte de una nueva revolución tecnológica. Un reconocimiento social masivo, cobertura de los medios de comunicación
+y una montaña rusa de opiniones, causó que las criptomonedas y sus creadores (bajo nombres reales o
+seudónimos) para hacerse popular, junto con la idea de manejar transacciones a través de descentralizados,
+redes sin confianza. Hoy en día, existen muchas redes blockchain alternativas y son más de
+libros de contabilidad para transacciones financieras.
 
-# The current panorama:
+# El panorama actual:
 
-The possibility of mining cryptocurrencies via websites emerged along with the creation of
-lyra2-webchain, algorithm designed to make CPU and GPU mining similarly efficient while completely
-restricting ASICs (CryptoNote Technology, 2018).
+La posibilidad de extraer criptomonedas a equitativamente surgió junto con la creación de
+lyra2-webchain, algoritmo diseñado para hacer que la minería de CPU y GPU sea igualmente eficiente mientras
+restringir los ASIC (CryptoNote Technology, 2018).
 
-To make this possible, MintMe Coin allows the use of javascript-based browser miners which websites can
-host to generate hashes on a visitor's machine. Even when there are several blockchains where these
-scripts can be used, none of them are platforms that allow users to create their own decentralized
-applications (DApps).
+El mercado actual de Dapp es todavía joven, con un enorme potencial para crecer e interrumpir el envejecimiento centralizado.
+Ecosistema de Internet que creó gigantes como Google y Amazon y les dio un gran control sobre el
+World Wide Web (wWw). A través de Dapps que implementan los estándares X20, C40 y X223, CITRINO es
+proponer una forma sencilla de ayudar a la transición, compra y venta de la web del actual ecosistema similar a un monopolio a un
+futuro descentralizado.
 
-The current Dapp market is still young, with a huge potential to grow and disrupt the aging centralized
-Internet ecosystem that created giants like Google and Amazon and gave them huge control over the
-worldwide web. Through Dapps implementing the ERC20 and ERC223 standards, MintMe Coin is
-proposing a simple way to help transition the web from the current monopoly-like ecosystem to a
-decentralized future.
-
-Even with the efforts invested to avoid it, lyra2-webchain and other blockchain projects like Ethereum and
-Monero got machines with Application-specific Integrated Circuit (ASIC) chips^2 , which concentrate a
-greater processing power and profitability level than any unspecialized hardware, therefore allowing a
-monopoly in the blockchain production.
-
-(^1) Crypto Currency News. 2018. Coincheck | The Japanese Exchange Drops Monero, Dash, & Zcash. [ONLINE]
-Available at: https://cryptocurrencynews.com/daily-news/exchanges/coincheck-drops/. [Accessed 28 April 2018].
-CCN. 2018. Japan Wants Cryptocurrency Exchanges to De-List Anonymous Altcoins: Report. [ONLINE]
-Available at: https://www.ccn.com/japan-is-pressuring-cryptocurrency-exchanges-to-de-list-anonymous-altcoins-report/. [Accessed 06 May 2018].
-(^2) CoinDesk. 2018. Bitmain Confirms Release of First Ethereum ASIC Miners - CoinDesk. [ONLINE] Available at:
-https://www.coindesk.com/bitmain-confirms-release-first-ever-ethereum-asic-miners/. [Accessed 10 April 2018].
-Cointelegraph. 2018. Bitmain Announces New Monero-Mining Antminer X3, Crypto’€™s Devs Say Will € ̃Not Work€™. [ONLINE]
-Available at: https://cointelegraph.com/news/bitmain-announces-new-monero-mining-antminer-x3-cryptos-devs-say-will-not-work.
-[Accessed 10 April 2018].
+Incluso con los esfuerzos invertidos para evitarlo, lyra2-webchain y otros proyectos de blockchain como Ethereum y
+Monero obtuvo máquinas con chips de circuito integrado de aplicación específica (ASIC) ^ 2, que concentran un
+mayor potencia de procesamiento y nivel de rentabilidad que cualquier hardware no especializado, lo que permite una
+monopolio en la producción de blockchain.
 
 
-Ethereum developers recently faced a dilemma regarding the modification of its protocol in order to
-restrict ASICs. Buterin (Ethereum foundation’s main face) is against this change^3 , claiming that
-security of transactions is not at risk and that Casper^4 will overcome any current ASICs via PoS;
-meanwhile, ETH users will have to accept the presence of ASICs mining in the network, unless they
-accept another fork. Although other developers in the Ethereum team seem to consider this possibility
-in a more serious way^5 , there’s no consensus or defined institutional statements regarding ASICs as a
-danger for Ethereum users nor is there any mention of the effect of PoS on the egalitarian distribution
-of new ETH coins.
+Los desarrolladores de Ethereum se enfrentaron recientemente a un dilema con respecto a la modificación de su protocolo para
+restringir los ASIC. Buterin (la cara principal de la fundación Ethereum) está en contra de este cambio ^ 3, afirmando que
+la seguridad de las transacciones no está en riesgo y que Casper ^ 4 superará cualquier ASIC actual a través de PoS;
+Mientras tanto, los usuarios de ETH deberán aceptar la presencia de minería de ASIC en la red, a menos que
+aceptar otra bifurcación. Aunque otros desarrolladores del equipo de Ethereum parecen considerar esta posibilidad
+de una manera más seria ^ 5, no hay consenso ni declaraciones institucionales definidas con respecto a los ASIC como
+peligro para los usuarios de Ethereum ni se menciona el efecto de PoS en la distribución igualitaria
+de nuevas monedas ETH.
 
-<img align="right" width="50%" src="https://github.com/webchain-network/wiki/blob/master/images/Webchain_white_paper-1.png" alt="Webchain network">
-Facing the enormous difference in block difficulty that
-the ASIC machines represent, and the fact that this
-increment is designed^6 to happen in order to face the
-hashrate growth, a new topic rose among miner users
-and coin/token holders about what to do: apply no
-changes, hence forcing some users to rely on ASIC
-providers, and making others to migrate, or ask
-developers to hard fork the algorithms in order to
-prevent ASIC miners from operating. Regardless of what option a developer and/or user goes for, this
-panorama just shows how legitimate and globally-shared concerns about the presence of ASIC
-machines in the blockchain networks are. Being this one of the reasons why we’re proposing a new
-protocol.
+<img align = "right" width = "50%" src = "https://github.com/webchain-network/wiki/blob/master/images/Webchain_white_paper-1.png" alt = "Red de cadena web">
+Frente a la enorme diferencia en la dificultad de los bloques que
+las máquinas ASIC representan, y el hecho de que este
+El incremento está diseñado para que suceda ^ 6 con el fin de enfrentar el
+crecimiento de hashrate, un nuevo tema surgió entre los usuarios mineros
+y los poseedores de monedas / fichas sobre qué hacer: no aplique
+cambios, lo que obliga a algunos usuarios a confiar en ASIC
+proveedores y hacer que otros migren, o pregunten
+desarrolladores a bifurcar los algoritmos con el fin de
+evitar que los mineros ASIC operen. Independientemente de la opción que elija un desarrollador y / o usuario, esta
+panorama solo muestra cómo las preocupaciones legítimas y compartidas a nivel mundial sobre la presencia de ASIC
+las máquinas en las redes blockchain son. Siendo esta una de las razones por las que proponemos una nueva
+protocolo.
 
-# Setting the context
+# Estableciendo el contexto
+Resumiendo los aspectos antes mencionados, el escenario actual de las criptomonedas introduce al menos
+una decisión que los creadores de protocolos deben tomar: prohibir o permitir los ASIC como parte de su diseño.
+La elección de evitar los mineros ASIC en un protocolo se interpreta como parte de un diseño que tiene como objetivo ofrecer mejores
+oportunidades para los usuarios habituales que extraen de máquinas no especializadas, que pueden ser tan importantes para el
+system como el rendimiento de blockchain.
 
-Summarizing the above mentioned aspects, the current scenario of cryptocurrencies introduces at least
-one decision that protocol creators need to make: either ban or allow ASICs as part of their design.
-Choosing to avoid ASIC miners in a protocol is interpreted as part of a design that aims to offer better
-opportunities for regular users mining from unspecialized machines, which can be as important to the
-system as the blockchain performance.
+La aplicación del anonimato es otro tema que dividió a los usuarios de blockchain, algunos de ellos
+considerando la posibilidad de realizar transacciones públicas.
 
-The enforcement of anonymity is another topic that got blockchain users divided, with some of them
-considering the possibility of performing public transactions.
-
-Considering that blockchains are increasing in popularity and acceptance, to choose public transactions
-seems to be the most appropriate strategy for social legitimation and institutional legality. If instead,
-it’s decided to perform completely anonymous transactions, any possible audit will be forbidden,
-
-
-(^3) Ethereum Blog. 2018. Introducing Casper "the Friendly Ghost" - Ethereum Blog. [ONLINE] Available at:
-https://blog.ethereum.org/2015/08/01/introducing-casper-friendly-ghost/. [Accessed 24 April 2018].
-(^4) GitHub. 2018. EIP: Modify block mining to be ASIC resistant. · Issue #958 · ethereum/EIPs · GitHub. [ONLINE] Available at:
-https://github.com/ethereum/EIPs/issues/958. [Accessed 10 April 2018].
-(^5) “To compensate the increasing hardware speed and varying interest in running nodes over time,
-the proof-of-work difficulty is determined by a moving average targeting an average number of
-blocks per hour. If they're generated too fast, the difficulty increases.”Nakamoto, Satoshi (2009). P
+Teniendo en cuenta que las cadenas de bloques están aumentando en popularidad y aceptación, elegir transacciones públicas
+parece ser la estrategia más adecuada para la legitimación social y la legalidad institucional. Si en cambio,
+se ha decidido realizar transacciones completamente anónimas, se prohibirá cualquier posible auditoría,
 
 
-allowing botnets to hide and perform malicious activities that cannot be tracked by governments. Even
-when crypto anarchists believe blockchain networks to be the antithesis of governments, choosing
-blockchains over regular institutionalized economies is neither a denial to nation-states legitimacy nor
-to the civilian duties of their inhabitants.
+Permitir que las redes de bots oculten y realicen actividades maliciosas que los gobiernos no pueden rastrear. Incluso
+cuando los criptoanarquistas creen que las redes blockchain son la antítesis de los gobiernos, elegir
+cadenas de bloques sobre las economías institucionalizadas regulares no es una negación a la legitimidad de los estados-nación ni
+a los deberes civiles de sus habitantes.
 
-On the other hand, blockchain users are concerned about the endurability of their efforts, as a
-consequence of the recent actions of companies like Bitmain, with the production of ASIC machines
-for Ethereum (which is one of the main platforms currently used for DApps) and the position of some
-developers responsible for allowing these kind of miners. Ethereum Classic team, which will also be
-affected by ETH ASICs, hasn’t pronounced^7 about these actions, thus reinforcing the worries of the
-community.
+Por otro lado, los usuarios de blockchain están preocupados por la durabilidad de sus esfuerzos, como
+consecuencia de las recientes acciones de empresas como Bitmain, con la producción de máquinas ASIC
+para Ethereum (que es una de las principales plataformas que se utilizan actualmente para DApps) y la posición de algunos
+desarrolladores responsables de permitir este tipo de mineros. El equipo Ethereum Classic, que también estará
+afectados por ETH ASIC, no se ha pronunciado ^ 7 sobre estas acciones, lo que refuerza las preocupaciones de los
+comunidad.
 
-This is the scenario from which MintMe Coin assembles the requirements to be met. The conditions for its
-deliverance are set next.
+Este es el escenario a partir del cual CITRINO ensambla los requisitos a cumplir. Las condiciones para su
+la liberación se establece a continuación.
 
-# MintMe Coin:
+# Citrino (CTN):
+Ha sido creado con un propósito claro: asegurar DApps usando CPU normales y de gama baja (Hardware con energia renovables a futuro). En orden
+Para tener éxito en ese propósito, CITRINO aplicó una versión personalizada del algoritmo de hash lyra2.
 
-It has been created with a clear purpose: to secure DApps using normal and low-end CPUs. In order 
-to succeed at that purpose, MintMe Coin applied a custom made version of the lyra2 hashing algorithm.
+El protocolo se revisa constantemente para evitar la explotación con ASIC, manteniendo así
+dificultad de bloque equilibrada y rendimiento del dispositivo. 
 
-MintMe Coin conceives the community of website users as the processing grid for applications. The
-protocol is constantly being revised in order to avoid exploitation with ASIC, thus keeping well-
-balanced block difficulty and device performance. There are over 1.5 billion websites, which are
-delivering millions of services every second; through MintMe Coin each of those sites could be securing
-DApps.
+Una de las principales limitaciones para cualquier persona dispuesta a minar es poseer hardware según el bloque.
+dificultad de la cadena de bloques. Esto generalmente se traduce en máquinas de alta gama (con CPU de vanguardia y
+componentes de memoria) y una conexión estable mientras funcionan. Este enfoque es limitativo tanto en el
+los activos económicos habituales de los usuarios y la flexibilidad de las conexiones a las que tienen acceso.
 
-One of the main limitations for any person willing to mine is to own hardware according to the block
-difficulty of the blockchain. This usually translates to high-end machines (with cutting edge CPU &
-memory components) and a stable connection while they work. This approach is limitative both on the
-usual economic assets of users and the flexibility of connections they have access to.
+<img align = "left" width = "30%" src = "https://github.com/webchain-network/wiki/blob/master/images/Webchain_white_paper-2.png" alt = "Red de Webchain"> < br>
+CITRINO no requiere un hardware particularmente bueno.
+Siempre que el dispositivo tenga procesador, contará con un
+porcentaje de potencia de CPU no utilizada que se ejecuta de forma asincrónica. 
+Esto permite que los usuarios extraigan desde un buen conjunto de dispositivos, 
+como una computadora de escritorio computadora, teléfonos inteligentes o incluso 
+aquellos que se conectan con IoT.
+<br> <br>
 
-<img align="left" width="30%" src="https://github.com/webchain-network/wiki/blob/master/images/Webchain_white_paper-2.png" alt="Webchain network"><br>
-MintMe Coin doesn’t require a particularly good hardware.
-As long as the device has a processor, it will count on a
-percentage of unused CPU power and deploy the web
-miner, which is executed asynchronously. This allows
-users to mine from a good set of devices like a desktop
-computer, smartphones, or even those connecting with
-IoT.  
-<br><br>
+Además de la posibilidad de extraer monedas de casi todos los dispositivos conectados a Internet, CITRINO es
+botnet hostil, ya que todas las transacciones realizadas en ella son públicas y rastreables, una condición que también
+garantiza que ninguna actividad ilícita pueda encontrar un escondite aquí.
 
-```
-(^6) reddit. 2018. So not a single word about The Bitmain Asics? : EthereumClassic. [ONLINE] Available at:
-https://www.reddit.com/r/EthereumClassic/comments/8aswbw/so_not_a_single_word_about_the_bitmain_asics/.
-[Accessed 13 April 2018].
-```
+CITRINO es un proyecto público gestionado por un grupo de desarrolladores y administradores con el apoyo de su
+comunidad. El proyecto está disponible en https://github.com/citrino-network, donde la gente puede crear
+forks y solicitudes de fusion en el repositorio principal.
 
+# El protocolo:
+<b> Nombre: </b> Citrino
+<b> Mecanismo de consenso: </b> PoW igualitario lyra2-webchain
+<b> Recompensa básica: </b> 50 CTN
+<b> Duración de la era: </b> 100 000 bloques (~ 2,5 semanas)
+<b> Tiempo de bloqueo: </b> 10 segundos
 
-Besides the possibility of mining coins from almost every internet-connected device, MintMe Coin is
-botnet unfriendly, as all transactions made on it are public and trackable, a condition that also
-guarantees that no illicit activities could find a hideout here.
+Para mantener una distribución igualitaria del trabajo, CITRINO ajustará continuamente la
+algoritmo hash; Previniendo la explotación con máquinas ASIC, ya que nadie diseñará un ASIC.
+sabiendo que será inútil casi instantáneamente después de ser implementado.
 
-MintMe Coin is a public project managed by a group of developers and admins with the support of its
-community. The project is available at https://github.com/webchain-network, where people can pull
-branches and request for merges into the main repository.
-
-# The protocol:
-
-<b>Name:</b> MintMe.com Coin  
-<b>Consensus Mechanism:</b> lyra2-webchain egalitarian PoW  
-<b>Base Reward:</b> 50 MINTME  
-<b>Era length:</b> 100 000 blocks (~2.5 weeks)  
-<b>Block time:</b> 10 seconds  
-<b>Smart Contract standard :</b> ERC-20, ERC-223  
-<b>Max supply:</b> ~564 000 000 MINTME
-
-In order to keep an egalitarian distribution of work, MintMe Coin will be continuously tweaking the
-hashing algorithm; preventing exploitation with ASIC machines, as nobody will design an ASIC
-knowing that it will be useless almost instantly after being implemented.
-
-
-Blocks are grouped into eras. Each era contains 100 000 blocks, so Era 1 contains blocks 0-99999;
-Era 2, 100000-199999 and so on. Base reward is reduced every era by 1/250, as described in the
-following equation:
-<p align="center">
-<img width="40%" src="https://github.com/webchain-network/wiki/blob/master/images/Webchain_white_paper-3.png">
+Los bloques se agrupan en eras. Cada era contiene 100 000 bloques, por lo que la Era 1 contiene los bloques 0-99999;
+Era 2, 100000-199999 y así sucesivamente. La recompensa base se reduce cada era en 1/250, como se describe en el
+siguiente ecuación:
+<p align = "centro">
+<img width = "40%" src = "https://github.com/webchain-network/wiki/blob/master/images/Webchain_white_paper-3.png">
 </p>
 
-Where x represents the number of eras and y the base reward. Better explained, the base reward in
-Era 0 is 50 MINTME, in Era 1 - 49.8 MINTME, Era 2 - 49.6008 MINTME etc. (see the figure below).
-```
-```
-<p align="center">
-<img width="80%" src="https://github.com/webchain-network/wiki/blob/master/images/Webchain_white_paper-4.png">
+Donde x representa el número de eras e y la recompensa base. Mejor explicado, la recompensa base en
+Era 0 es 50 CTN, en Era 1 - 49,8 CTN, Era 2 - 49.6008 CTN, etc. (consulte la figura siguiente).
+''
+''
+<p align = "centro">
+<img width = "80%" src = "https://github.com/webchain-network/wiki/blob/master/images/Webchain_white_paper-4.png">
 </p>
 
-# MintMe Coin: roadmap
+# CITRINO: hoja de ruta
+Hoja de ruta disponible en https://citrinocoin.co.
 
-Roadmap available at https://mintme.com/coin/.
+# Referencias
 
-# References
+Blog de Ethereum. 2018. Presentamos a Casper "el fantasma amistoso" - Blog de Ethereum. [EN LÍNEA] Disponible en:
+https://blog.ethereum.org/2015/08/01/introducing-casper-friendly-ghost/. [Consultado el 24 de abril de 2018].
 
-CCN. 2018. Japan Wants Cryptocurrency Exchanges to De-List Anonymous Altcoins: Report. [ONLINE]
-Available at: https://www.ccn.com/japan-is-pressuring-cryptocurrency-exchanges-to-de-list-anonymous-altcoins-report/. [Accessed 06 May 2018].
+GitHub. 2018. EIP: Modificar la minería de bloques para que sea resistente a ASIC. · Número 958 · ethereum / EIPs · GitHub. [EN LÍNEA]
+Disponible en: https://github.com/ethereum/EIPs/issues/958. [Consultado el 10 de abril de 2018].
+Kuhn, T.S., 1996. La estructura de las revoluciones científicas
 
-CoinDesk. 2018. Bitmain Confirms Release of First Ethereum ASIC Miners - CoinDesk. [ONLINE] Available
-at:
-https://www.coindesk.com/bitmain-confirms-release-first-ever-ethereum-asic-miners/. [Accessed 10 April
-2018].
+reddit. 2018. Entonces, ¿ni una sola palabra sobre The Bitmain Asics? : EthereumClassic. [EN LÍNEA] Disponible en:
+https://www.reddit.com/r/EthereumClassic/comments/8aswbw/so_not_a_single_word_about_the_bitmain_asics/ [Consultado el 13 de abril de 2018].
 
-Cointelegraph. 2018. Bitmain Announces New Monero- _Mining Antminer X3, Crypto’_ €™s Devs Say Will € ̃Not
-Work€™. [ONLINE] Available at:
-https://cointelegraph.com/news/bitmain-announces-new-monero-mining-antminer-x3-cryptos-devs-say-will-not-work. [Accessed 10 April 2018].
-
-Cryptocurrency News. 2018. Coincheck | The Japanese Exchange Drops Monero, Dash, & Zcash. [ONLINE]
-Available at: https://cryptocurrencynews.com/daily-news/exchanges/coincheck-drops/. [Accessed 28 April
-2018].
-
-CryptoNote Technology. 2018. CryptoNote Technology. [ONLINE] Available at: https://cryptonote.org/inside.
-[Accessed 26 April 2018].
-
-CRYPTONOTE STANDARD 008 CryptoNote. Available at:
-https://cryptonote.org/cns/cns008.txt [Accessed April 10, 2018].
-
-Ethereum Blog. 2018. Introducing Casper "the Friendly Ghost" - Ethereum Blog. [ONLINE] Available at:
-https://blog.ethereum.org/2015/08/01/introducing-casper-friendly-ghost/. [Accessed 24 April 2018].
-
-GitHub. 2018. EIP: Modify block mining to be ASIC resistant. · Issue #958 · ethereum/EIPs · GitHub. [ONLINE]
-Available at: https://github.com/ethereum/EIPs/issues/958. [Accessed 10 April 2018].
-Kuhn, T.S., 1996. The Structure of Scientific Revolutions
-
-Nakamoto, Satoshi (2009), [Bitcoin: A Peer-to-Peer Electronic Cash System. Available at: [https://bitcoin.org/bitcoin.pdf ](https://bitcoin.org/bitcoin.pdf )  [Accessed March 29, 2018].
-
-reddit. 2018. So not a single word about The Bitmain Asics? : EthereumClassic. [ONLINE] Available at:
-https://www.reddit.com/r/EthereumClassic/comments/8aswbw/so_not_a_single_word_about_the_bitmain_asics/ [Accessed 13 April 2018].
-
+Nakamoto, Satoshi (2009), [Bitcoin: un sistema de efectivo electrónico de igual a igual. Disponible en: [https://bitcoin.org/bitcoin.pdf] (https://bitcoin.org/bitcoin.pdf) [Consultado el 29 de marzo de 2018].
